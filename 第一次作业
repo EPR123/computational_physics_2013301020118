@@ -1,8 +1,0 @@
-1：量子力学五大假设：
-（1）：微观体系的运动状态由相应的归一化波函数描述；
-（2）：微观体系的运动状态的波函数随时间变化的规律服从薛定谔方程 ；
-（3）：力学量由相应的线性厄米算符表示；
-（4）：力学量算符之间有确定的对易关系，称为量子条件；
-（5）：全同多粒子体系的波函数对于任意一对粒子交换而言具有对称性,玻色子体系的波函数是对称的，费米子体系是反对称的。
-2：第一次写README.md的时候，由于自己所下载的markdown总是出现“An error occurred with the HTML rendering component. This issue may be
-fixed by installing a missing component"and so on。所以只能就用这个界面来写，并且用stackedit写的内容，publish时，发不出去。
