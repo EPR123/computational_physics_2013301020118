@@ -8,3 +8,4 @@
 #####[第6次作业](https://github.com/EPR123/computational_physics_2013301020118/blob/master/%E7%AC%AC6%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 #####[第7次作业](https://github.com/EPR123/computational_physics_2013301020118/blob/master/%E7%AC%AC7%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
 #####[第8次作业](https://github.com/EPR123/computational_physics_2013301020118/blob/master/%E7%AC%AC8%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
+#####[第9次作业](https://github.com/EPR123/computational_physics_2013301020118/blob/master/%E7%AC%AC9%E6%AC%A1%E4%BD%9C%E4%B8%9A.md)
